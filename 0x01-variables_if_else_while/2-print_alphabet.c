@@ -14,7 +14,7 @@ int main(void)
 	while
 		(letter <= 'z') {
 			putchar(letter);
-		c++;
+		letter++;
 		}
 
 	putchar('\n');
