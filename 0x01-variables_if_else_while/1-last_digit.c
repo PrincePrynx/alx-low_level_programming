@@ -1,13 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
 *Main -  the starting point
-*Description: a function that prints 'Programming is (value of b)
+*Description: a function that prints 'Programming is
 *Return: set to 0 (success)
 */
-
 int main(void)
 {
 	int n;
