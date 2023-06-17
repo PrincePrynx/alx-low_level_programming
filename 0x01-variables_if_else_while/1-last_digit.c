@@ -5,8 +5,9 @@
 *Main -  the starting point
 *Description: a function that prints 'Programming is
 *Return: set to 0 (success)
+*
 */
-int main(void)
+int main(void) /** the main function*/
 {
 	int n;
 
