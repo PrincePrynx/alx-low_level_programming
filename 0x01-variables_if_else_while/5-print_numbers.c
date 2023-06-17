@@ -4,17 +4,16 @@
 
 /**
  * main - starting point
- * Description: prints single numbers
+ * Description: prints numbers
  * Return: set at 0 (success)
  */
 int main(void)
 {
-	int num;
+int i;
+for (i = 0; i < 10; i++)
 
-	for (num = 0; num < 10; num++)
-		putchar((num % 10) + '0');
+	printf("%i", i);
 
-	putchar('\n');
-
-	return (0);
+printf("\n");
+return (0);
 }
