@@ -24,12 +24,13 @@ int main(void)
 			putchar(fD);
 			putchar(sD);
 			putchar(lD);
-}
+
 
 			if (c != 789)
 {
 				putchar(',');
 				putchar(' ');
+}
 }
 c++;
 		}
