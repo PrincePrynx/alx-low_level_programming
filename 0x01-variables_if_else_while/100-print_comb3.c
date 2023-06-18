@@ -13,16 +13,18 @@ int main(void)
 	int LD;
 
 	while (c <= 99)
+	{
 		FD = (c / 10 + '0');
 		LD = (c % 10 + '0');
-
+}
 		if (FD < LD)
+		{
 			putchar(FD);
 			putchar(LD);
-
-			if (c != 89)
-			putchar(',');
-			putchar(' ');
+}
+				if (c != 89)
+				putchar(',');
+				putchar(' ');
 c++;
 putchar('\n');
 return (0);
