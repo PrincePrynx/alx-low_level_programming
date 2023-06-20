@@ -4,7 +4,7 @@
  * print_alphabet_x10 - starting point
  *
 * description: prints lowercase x10
- * 
+ *
  */
 
 void print_alphabet_x10(void)
