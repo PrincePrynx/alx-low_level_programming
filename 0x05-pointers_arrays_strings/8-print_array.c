@@ -14,7 +14,7 @@ int LT;
 		printf("%d", a[LT]);
 	if (LT != (n - 1))
 {
-		printf(",");
+		printf(", ");
 }
 }
 putchar('\n');
