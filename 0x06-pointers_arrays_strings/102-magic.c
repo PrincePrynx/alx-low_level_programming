@@ -1,12 +1,6 @@
 #include <stdio.h>
 
 
-/**
-*main - magic pointer
-*
-*Return: set as 0
-*/
-
 
 int main(void)
 {
