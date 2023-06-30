@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-*_strncmp - compares two strings
-*@dest: destination string pointer
-*@src: source string pointer
-*@s: strings to be compared
+*_strcmp - compares two strings
+*@s1: first string
+*@s2: second string
 *
-*Return:pointer to destination string
+*Return: 0 if s1 and s2 are equals,
+*another number if not
 */
 
 
