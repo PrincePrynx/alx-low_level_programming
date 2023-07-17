@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-*main - Entry point
+*main - prints the name of the file
 *
-*Return: 0
+*Return: always 0
 */
 
 
