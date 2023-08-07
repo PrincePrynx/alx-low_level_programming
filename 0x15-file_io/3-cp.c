@@ -1,6 +1,8 @@
 #include "main.h"
 
 
+
+
 void checks_IO(int new, int def, char *filename, char status);
 
 
@@ -11,6 +13,7 @@ void checks_IO(int new, int def, char *filename, char status);
  *
  * Return: 1 on success, exit otherwise
  */
+
 
 int main(int argc, char *argv[])
 {
