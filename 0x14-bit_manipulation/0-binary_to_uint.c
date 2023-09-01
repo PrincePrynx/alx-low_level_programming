@@ -8,9 +8,11 @@
  */
 
 
+
 unsigned int binary_to_uint(const char *b)
 {
 	int x, newVal = 0;
+
 
 
 	if (b == NULL)
